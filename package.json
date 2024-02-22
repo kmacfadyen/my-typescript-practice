@@ -5,7 +5,8 @@
     "test": "echo \"This template does not include a test runner by default.\" && exit 1"
   },
   "dependencies": {
-    "canvas-confetti": "^1.2.0"
+    "canvas-confetti": "^1.2.0",
+    "uuid": "^9.0.1"
   },
   "devDependencies": {
     "@snowpack/plugin-typescript": "^1.2.1",
